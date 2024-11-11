@@ -3,7 +3,7 @@
 ![](./images/grinhackdev.png)
 </div>
 
-We are a leading group of developers specialising in creating multiplayer utilities for vanilla Minecraft gameplay. Responsible for GrinUtils for basehunting (now in Grinhack), BlueMap integration, and the liquid block updater exploit in Paper redstone.
+We are a leading group of developers specialising in creating multiplayer utilities for vanilla Minecraft gameplay. Responsible for GrinUtils for basehunting (now in Grinhack), Meteor-BlueMap integration, and the 1.21.1 liquid updater exploit.
 
 <div align="center">
     
