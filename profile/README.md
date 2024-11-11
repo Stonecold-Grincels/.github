@@ -1,24 +1,16 @@
-<style>
-.abstract {
-    font-size: 1.1em;
-}
+<div align="center">
+    
+![](./images/grinhackdev.png)
+</div>
 
-.head {
-    font-size: 1.4em;
-}
-</style>
+We are a leading group of developers specialising in creating multiplayer utilities for vanilla Minecraft gameplay. Responsible for GrinUtils for basehunting (now in Grinhack), BlueMap integration, and the liquid block updater exploit in Paper redstone.
 
-<center>
-  <img src="./images/grinhackdev.png" style="margin-bottom: -10px;">
-</center>
+<div align="center">
+    
+![](./images/grindoge.png)
+</div>
 
-<p class="abstract" style="margin-bottom: 20px;">We are a leading group of developers specialising in creating multiplayer utilities for vanilla Minecraft gameplay. Responsible for GrinUtils for basehunting (now in Grinhack), BlueMap integration, and the liquid block updater exploit in Paper fast redstone.</p>
-
-<center>
-  <img src="./images/grindoge.png" style="border-radius: 10px">
-</center>
-
-<p class="head" style="margin-top: 20px;">Public tools</p>
+### Public tools
 
 |Name|Description|Repo|Wiki|
 |---|---|---|---|
@@ -27,6 +19,7 @@
 
 <br/>
 
-<center>
-  Grinhack Development is a part of SCG.
-</center>
+<div align="center">
+
+Grinhack Development is a part of SCG.
+</div>
