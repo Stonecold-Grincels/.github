@@ -21,5 +21,5 @@ We are a leading group of developers specialising in creating multiplayer utilit
 
 <div align="center">
 
-Grinhack Development is a part of SCG.
+Grinhack Development is a part of SCG
 </div>
